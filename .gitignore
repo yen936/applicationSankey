@@ -1,0 +1,6 @@
+/venv
+.env
+credentials.json
+job_application_emails.csv
+calendar_meetings.csv
+job_application_emails_clean.csv
